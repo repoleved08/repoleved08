@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Welcome+to+My+Repository+%F0%9F%91%8B;I'm+Norman+Bii;Passionate+Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Welcome+to+My+Repository+%F0%9F%91%8B;I'm+N[...]
 </div>
 
 <p align="center">
@@ -74,6 +74,17 @@ Hi, I'm **Norman Bii**! I'm a passionate software developer specializing in buil
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=repoleved08&theme=github_dark" />
+</div>
+
+## 📊 Commit History
+
+<div align="center">
+  <a href="https://commit-history.com/repoleved08">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/repoleved08?theme=dark" />
+      <img alt="repoleved08's commit history" src="https://commit-history.com/embed/repoleved08" />
+    </picture>
+  </a>
 </div>
 
 ## 💬 Get in Touch
